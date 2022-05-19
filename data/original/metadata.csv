@@ -1,0 +1,62 @@
+﻿Patient id,Sample Id,AGE,BMI,DATE OF COLLECTION,GENDER,RACE,TIME POINT,Group
+1,111-0006-01,9.8,n/a,02-Dec-16,F,Caucasian,Healthy,Healthy Controls
+2,111-0007-01,12.4,? No consents,03-Feb-16,F,Caucasian,Healthy,Healthy Controls
+3,111-0014-01,9.8,? No consents (n/a),10-Aug-16,F,Hispanic/ Caucasian,Healthy,Healthy Controls
+4,111-0018-03,12.7,? No consents,22-Sep-16,M,Hispanic,Healthy,Healthy Controls
+5,111-0022-01,10.7,? No consents (n/a),14-Oct-16,F,Caucasian,Healthy,Healthy Controls
+6,111-0025-01,8.1,? No consents (n/a),20-Oct-16,M,Asian,Healthy,Healthy Controls
+7,111-0026-01,8.2,n/a,09-Jan-17,M,Caucasian,Healthy,Healthy Controls
+8,111-0035-01,7,15.69kg/m2 (5/22/2017),24-Aug-17,M,Caucasian,Healthy,Healthy Controls
+9,111-0044-01,12.1,n/a,16-Aug-17,M,Asian,Healthy,Healthy Controls
+10,111-049-01,11.4,no consent to medical record review,13-Sep-17,F,Hispanic/ Asian,Healthy,Healthy Controls
+11,126-0005-01,12.68,29.17kg/m2,28-Apr-17,M,Caucasian,Flare,Flare Only
+43,126-0017-02,10.9,29.18kg/m2,05-Jun-18,M,Caucasian,Remission,Remission matched with flare
+44,126-0021-02,11.69,25.25kg/m2,07-Aug-18,F,Caucasian,Remission,Remission matched with flare
+12,126-0029-02,8.14,17.48kg/m2,18-Oct-17,M,Caucasian,Flare,Flare Only
+13,126-0044-01,8.4,no consent to medical record review,22-Nov-17,F,Hispanic,Healthy,Healthy Controls
+14,126-0047-01,10.37,16.48kg/m2,16-Nov-17,F,Caucasian,Flare,Flare Matched with remission
+14,126-0047-02,10.68,16.29kg/m2,08-Mar-18,F,Caucasian,Remission,Remission matched with flare
+15,126-0048-01,7.2,n/a,22-Nov-17,M,Caucasian,Healthy,Healthy Controls
+16,126-0050-02,13.2,n/a,01-Feb-18,M,Caucasian,Healthy,Healthy Controls
+17,126-0051-02,10.4,n/a,01-Feb-18,F,Caucasian,Healthy,Healthy Controls
+18,126-0065-01,11.3,19.26kg/m2,03-Jan-18,M,Caucasian/Asian,Flare,Flare Matched with remission
+18,126-0065-02,11.6,19.31kg/m2,09-May-18,M,Caucasian/Asian,Remission,Remission matched with flare
+19,126-0067-01,10.25,15.79kg/m2,12-Jan-18,F,Caucasian,Flare,Flare Only
+20,126-0068-01,5.16,21.24kg/m2,22-Jan-18,M,Caucasian,Flare,Flare Only
+21,126-0069-02,6.8,no consent to medical record review,23-Feb-18,M,Caucasian,Healthy,Healthy Controls
+22,126-0072-01,8.67,21.18kg/m2,07-Feb-18,M,Caucasian/Hispanic,Flare,Flare Matched with remission
+22,126-0072-02,8.85,22.30kg/m2,16-Apr-18,M,Caucasian/Hispanic,Remission,Remission matched with flare
+23,126-0074-02,6,n/a,08-May-18,F,Caucasian,Healthy,Healthy Controls
+24,126-0075-01,7.5,n/a,22-Feb-18,F,Caucasian,Healthy,Healthy Controls
+25,126-0077-02,8,no consent to medical record review,09-Apr-18,M,Caucasian,Healthy,Healthy Controls
+26,126-0078-01,5.9,no consent to medical record review,12-Mar-18,M,Caucasian,Healthy,Healthy Controls
+27,126-0079-01,10.2,no consent to medical record review,12-Mar-18,F,Caucasian,Healthy,Healthy Controls
+45,126-0100-01,11.82,17.21kg/m2,18-Apr-18,M,Caucasian/ Hispanic,Remission,Remission matched with flare
+28,126-0102-01,9.3,no consent to medical record review,21-May-18,F,Asian,Healthy,Healthy Controls
+46,126-0111-01,9.12,21.15kg/m2,09-May-18,M,Caucasian/ Asian,Remission,Remission matched with flare
+29,126-0114-01,6.97,15.50kg/m2,14-May-18,M,Caucasian,Flare,Flare Matched with remission
+29,126-0114-02,7.16,15.09kg/m2,24-Jul-18,M,Caucasian,Remission,Remission matched with flare
+30,126-0117-01,8.89,15.95kg/m2,18-May-18,F,Caucasian/Asian,Flare,Flare Only
+31,126-0130-01,4.07,17.07kg/m2,11-Jul-18,M,Caucasian,Flare,Flare Only
+32,126-0149-01,6.05,14.92kg/m2,11-Sep-18,M,Caucasian,Flare,Flare Only
+45,77-0025-01,9.06,17.1kg/m2,14-Jul-15,M,Caucasian/ Hispanic,Flare,Flare Matched with remission
+33,77-0041-02,8.29,19.17kg/m2,11-Jun-15,M,Caucasian,Flare,Flare Matched with remission
+33,77-0041-04,8.61,19.46kg/m2,08-Oct-15,M,Caucasian,Remission,Remission matched with flare
+34,77-0095-01,11.84,19.82kg/m2,30-Jun-15,M,Hispanic,Flare,Flare Matched with remission
+34,77-0095-10,13.23,21.11kg/m2,16-Nov-16,M,Hispanic,Remission,Remission matched with flare
+35,77-0097-01,9.7,15.60kg/m2,02-Jul-15,F,Caucasian,Flare,Flare Only
+36,77-0121-02,9.7,16.76kg/m2,23-Sep-15,M,Caucasian,Flare,Flare Matched with remission
+36,77-0121-03,9.9,16.17kg/m2,03-Nov-15,M,Caucasian,Remission,Remission matched with flare
+43,77-0155-01,8.12,14.72kg/m2,03-Sep-15,M,Caucasian,Flare,Flare Matched with remission
+37,77-0178-01,7.98,17.37kg/m2,09-Dec-15,M,Caucasian,Remission,Remission matched with flare
+37,77-0178-08,8.33,17.23kg/m2,09-Jun-16,M,Caucasian,Flare,Flare Matched with remission
+46,77-0195-01,6.91,16.79kg/m2,22-Feb-16,M,Caucasian/ Asian,Flare,Flare Matched with remission
+38,77-0231-01,8.48,15.99kg/m2,21-Nov-16,F,Caucasian,Flare,Flare Matched with remission
+38,77-0231-06,8.66,18.98kg/m2,26-Jan-17,F,Caucasian,Remission,Remission matched with flare
+39,77-0233-01,9.87,17.14kg/m2,08-Dec-16,M,Caucasian/ hispanic,Flare,Flare Matched with remission
+39,77-0233-07,10.55,19.42kg/m2,16-Aug-17,M,Caucasian/ hispanic,Remission,Remission matched with flare
+40,77-0234-02,8.74,13.92kg/m2,12-Dec-16,F,Caucasian,Flare,Flare Only
+41,77-0235-03,12.34,25.05kg/m2,27-Dec-16,F,Caucasian/ hispanic,Flare,Flare Matched with remission
+41,77-0235-06,12.52,27.07kg/m2,02-Mar-17,F,Caucasian/ hispanic,Remission,Remission matched with flare
+42,77-0247-03,11.91,19.77kg/m2,28-Mar-17,M,Caucasian,Flare,Flare Only
+44,77-0249-05,10.66,21.32kg/m2,15-Jun-17,F,Caucasian,Flare,Flare Matched with remission

@@ -1,0 +1,18 @@
+﻿Patient id,Sample Id,AGE,BMI,DATE OF COLLECTION,GENDER,RACE,TIME POINT,Group
+18,126-0065-01,11.3,19.26kg/m2,03-Jan-18,M,Caucasian/Asian,Flare,Flare Matched with remission
+18,126-0065-02,11.6,19.31kg/m2,09-May-18,M,Caucasian/Asian,Remission,Remission matched with flare
+34,77-0095-01,11.84,19.82kg/m2,30-Jun-15,M,Hispanic,Flare,Flare Matched with remission
+34,77-0095-10,13.23,21.11kg/m2,16-Nov-16,M,Hispanic,Remission,Remission matched with flare
+38,77-0231-01,8.48,15.99kg/m2,21-Nov-16,F,Caucasian,Flare,Flare Matched with remission
+38,77-0231-06,8.66,18.98kg/m2,26-Jan-17,F,Caucasian,Remission,Remission matched with flare
+43,77-0155-01,8.12,14.72kg/m2,03-Sep-15,M,Caucasian,Flare,Flare Matched with remission
+43,126-0017-02,10.9,29.18kg/m2,05-Jun-18,M,Caucasian,Remission,Remission matched with flare
+46,77-0195-01,6.91,16.79kg/m2,22-Feb-16,M,Caucasian/ Asian,Flare,Flare Matched with remission
+46,126-0111-01,9.12,21.15kg/m2,09-May-18,M,Caucasian/Asian,Remission,Remission matched with flare
+10,111-049-01,11.4,NULL,13-Sep-17,F,Hispanic/Asian,Healthy,Healthy Controls
+11,126-0005-01,12.68,29.17kg/m2,28-Apr-17,M,Caucasian,Flare,Flare Only
+13,126-0044-01,8.4,NULL,22-Nov-17,F,Hispanic,Healthy,Healthy Controls
+15,126-0048-01,7.2,NULL,22-Nov-17,M,Caucasian,Healthy,Healthy Controls
+16,126-0050-02,13.2,NULL,01-Feb-18,M,Caucasian,Healthy,Healthy Controls
+17,126-0051-02,10.4,NULL,01-Feb-18,F,Caucasian,Healthy,Healthy Controls
+21,126-0069-02,6.8,NULL,23-Feb-18,M,Caucasian,Healthy,Healthy Controls
