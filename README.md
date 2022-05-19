@@ -15,6 +15,9 @@
     <p align="center">
     <h3><a href="./report.pdf">Report</a></h3>
   </p>
+      <p align="center">
+    <h3><a href="./slides.pdf">Slides</a></h3>
+  </p>
 </div>
 
 Master Degree (Artificial Intelligence curriculum)<br>
